@@ -1,7 +1,14 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package domain;
 
-Scrin
-![alt-текст](https://raw.githubusercontent.com/ppc-ntu-khpi/34---classes-and-modifiers-Bin228/main/Solution/done.png "ScrinCod")
-
+/**
+ *
+ * @author vipbi
+ */
 public class Customer {
     private int ID;
     private boolean isNew;
@@ -52,4 +59,3 @@ public class Customer {
         System.out.println("ID: "+ID+"\nisNew: "+isNew+"\ntotal: "+total+"\n");
     }
 }
-
