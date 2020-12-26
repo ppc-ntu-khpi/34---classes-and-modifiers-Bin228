@@ -1,8 +1,8 @@
 
-**Scrin
+Scrin
 ![alt-текст](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Bin228/master/Solution/advanced.png "ScrinCod")
 
-**Code
+Code
 public class Customer {
     private int ID;
     private boolean isNew;
