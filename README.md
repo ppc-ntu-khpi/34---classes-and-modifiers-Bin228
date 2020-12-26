@@ -1,6 +1,6 @@
 
 Scrin
-![alt-текст](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Bin228/master/Solution/advanced.png "ScrinCod")
+![alt-текст](https://raw.githubusercontent.com/ppc-ntu-khpi/34---classes-and-modifiers-Bin228/main/Solution/done.png "ScrinCod")
 
 Code
 public class Customer {
