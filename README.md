@@ -2,8 +2,6 @@
 Scrin
 ![alt-текст](https://raw.githubusercontent.com/ppc-ntu-khpi/34---classes-and-modifiers-Bin228/main/Solution/done.png "ScrinCod")
 
-Code
-
 public class Customer {
     private int ID;
     private boolean isNew;
